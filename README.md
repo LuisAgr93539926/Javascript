@@ -1,2 +1,2 @@
 # Javascript
-This repository contains all the code I wrote while learning javascript in different online.
+This repository contains all the code I wrote while learning javascript in different online courses.
